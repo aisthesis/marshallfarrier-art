@@ -1,4 +1,3 @@
-codemelon-2014
+marshallfarrier-art
 =
-Simplification of the site for easier upkeep and
-usability.
+Website for showing artwork.
