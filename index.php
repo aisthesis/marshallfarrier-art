@@ -18,8 +18,8 @@
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Marshall Farrier</h1>
-                    <p class="lead text-muted">My art riffs on the spiritual energy of its subjects. It aims to represent visually the soul of 
-                    concrete beings or essence of abstract emotions.</p>
+                    <p class="lead text-muted">My work riffs on the spiritual energy of its subjects. It aims to represent visually the soul of 
+                    concrete beings and the essence of abstract emotions.</p>
                 </div>
             </section>
 
@@ -43,7 +43,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190921_Crows.jpg" alt="Natalie" width="100%" height"225">  
+                            <img src="<?php echo $mediaPath; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
                             <div class="card-body">
                               <h4 class="card-text">Nature</h4>
                               <div class="d-flex justify-content-between align-items-center">
@@ -58,7 +58,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190803_SquirrelTotem.jpg" alt="Natalie" width="100%" height"225">  
+                            <img src="<?php echo $mediaPath; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
                             <div class="card-body">
                               <h4 class="card-text">Sculpture</h4>
                               <div class="d-flex justify-content-between align-items-center">
@@ -73,9 +73,24 @@
                         </div>
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Natalie" width="100%" height"225">  
+                            <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
                             <div class="card-body">
                               <h4 class="card-text">Studies</h4>
+                              <div class="d-flex justify-content-between align-items-center">
+                                <!--
+                                <div class="btn-group">
+                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                </div>
+                                -->
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm">
+                            <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
+                            <div class="card-body">
+                              <h4 class="card-text">Abstract</h4>
                               <div class="d-flex justify-content-between align-items-center">
                                 <!--
                                 <div class="btn-group">
