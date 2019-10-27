@@ -11,15 +11,15 @@
     include($templatePath . '_header.html');
     ?>
 
-<main role="main">
+        <main role="main">
 
-    <section class="jumbotron text-center">
-        <div class="container">
-            <h1 class="jumbotron-heading">Art by Marshall Farrier</h1>
-            <p class="lead text-muted">My work riffs on the spiritual energy of its subjects. It aims to reveal a view of the soul of what I paint, whether
-            concrete being or abstract emotion.</p>
-        </div>
-    </section>
+            <section class="jumbotron text-center">
+                <div class="container">
+                    <h1 class="jumbotron-heading">Marshall Farrier</h1>
+                    <p class="lead text-muted">My art riffs on the spiritual energy of its subjects. It aims to reveal the soul of what I paint, whether
+                    concrete being or abstract emotion.</p>
+                </div>
+            </section>
 
   <div class="album py-5 bg-light">
     <div class="container">
