@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="en">
     <?php
+    // define variables
     $root = './';
-    $templatePath = $root . 'templates/';
-    $mediaPath = $root . 'media/';
     include($root . 'common.php');
-    include($templatePath . '_head.html');
+
+    // generate head
+    include($paths['templates'] . '_head.html');
     ?>
     <body>
     <?php
-    include($templatePath . '_header.html');
+    include($paths['templates'] . '_header.html');
     ?>
 
         <main role="main">
@@ -28,7 +29,7 @@
                         
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $mediaPath; ?>191018_Natalie.jpg" alt="Natalie" width="100%" height"225">  
+                                <img src="<?php echo $paths['media']; ?>191018_Natalie.jpg" alt="Natalie" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Portraits</h4>
                                     <a href="portraits.php" class="stretched-link"></a>                               
@@ -38,7 +39,7 @@
                         
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $mediaPath; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
+                                <img src="<?php echo $paths['media']; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Nature</h4>
                                     <a href="nature.php" class="stretched-link"></a>                               
@@ -48,7 +49,7 @@
 
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $mediaPath; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
+                                <img src="<?php echo $paths['media']; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Sculpture</h4>
                                     <a href="sculpture.php" class="stretched-link"></a>                               
@@ -58,7 +59,7 @@
 
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
+                                <img src="<?php echo $paths['media']; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Studies</h4>
                                     <a href="studies.php" class="stretched-link"></a>                               
@@ -68,7 +69,7 @@
 
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
+                                <img src="<?php echo $paths['media']; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Abstractions</h4>
                                     <a href="abstractions.php" class="stretched-link"></a>                               
@@ -85,7 +86,7 @@
                 </div>
             </div>
         </main>
-        <?php include($templatePath . '_footer.html'); ?>
-        <?php include($templatePath . '_scripts.html'); ?>
+        <?php include($paths['templates'] . '_footer.html'); ?>
+        <?php include($paths['templates'] . '_scripts.html'); ?>
     </body>
 </html>

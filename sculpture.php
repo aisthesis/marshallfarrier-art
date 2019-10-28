@@ -1,16 +1,17 @@
 <!doctype html>
 <html lang="en">
     <?php
+    // define variables
     $root = './';
-    $templatePath = $root . 'templates/';
-    $mediaPath = $root . 'media/';
-    $cardDataFile = $root . 'sculpture.json';
     include($root . 'common.php');
-    include($templatePath . '_head.html');
+    $cardDataFile = $paths['data'] . 'sculpture.json';
+
+    // generate head
+    include($paths['templates'] . '_head.html');
     ?>
     <body>
     <?php
-    include($templatePath . '_header.html');
+    include($paths['templates'] . '_header.html');
     ?>
 
         <main role="main">
@@ -28,7 +29,7 @@
                             $jsonFileContents = file_get_contents($cardDataFile);
                             $cards = json_decode($jsonFileContents, true);
                             foreach ($cards as $card) {
-                                $imgPath = $mediaPath . $card['filename'];
+                                $imgPath = $paths['media'] . $card['filename'];
                                 $txt = '' .
                                     '<div class="col-md-4">' .
                                         '<div class="card mb-4 shadow-sm">' .
@@ -49,7 +50,7 @@
                 </div>
             </div>
         </main>
-        <?php include($templatePath . '_footer.html'); ?>
-        <?php include($templatePath . '_scripts.html') ?>
+        <?php include($paths['templates'] . '_footer.html'); ?>
+        <?php include($paths['templates'] . '_scripts.html') ?>
     </body>
 </html>

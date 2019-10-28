@@ -1,0 +1,27 @@
+[
+  {
+    "thumbnail": "191018_Natalie.jpg",
+    "category": "Portraits",
+    "page": "portraits.php"
+  },
+  {
+    "thumbnail": "191018_Natalie.jpg",
+    "category": "Nature",
+    "page": "nature.php"
+  },
+  {
+    "thumbnail": "191018_Natalie.jpg",
+    "category": "Sculpture",
+    "page": "sculpture.php"
+  },
+  {
+    "thumbnail": "191018_Natalie.jpg",
+    "category": "Studies",
+    "page": "studies.php"
+  },
+  {
+    "thumbnail": "191018_Natalie.jpg",
+    "category": "Abstractions",
+    "page": "abstractions.php"
+  }
+]
