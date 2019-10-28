@@ -4,7 +4,7 @@
     $root = './';
     $templatePath = $root . 'templates/';
     $mediaPath = $root . 'media/';
-    $cardDataFile = $root . 'nature.json';
+    $cardDataFile = $root . 'sculpture.json';
     include($root . 'common.php');
     include($templatePath . '_head.html');
     ?>
@@ -17,7 +17,7 @@
 
             <section class="jumbotron text-center">
                 <div class="container">
-                    <h1 class="jumbotron-heading">Nature</h1>
+                    <h1 class="jumbotron-heading">Sculpture</h1>
                 </div>
             </section>
 
