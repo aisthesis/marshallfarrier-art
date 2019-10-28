@@ -1,17 +1,18 @@
 <!doctype html>
 <html lang="en">
-    <?php
-    // define variables
-    $root = './';
-    include($root . 'common.php');
+<?php
+// define variables
+$root = './';
+include($root . 'common.php');
+$cardDataFile = $paths['data'] . 'index.json';
 
-    // generate head
-    include($paths['templates'] . '_head.html');
-    ?>
+// generate head
+include($paths['templates'] . '_head.html');
+?>
     <body>
-    <?php
-    include($paths['templates'] . '_header.html');
-    ?>
+<?php
+include($paths['templates'] . '_header.html');
+?>
 
         <main role="main">
 
@@ -26,62 +27,28 @@
             <div class="album py-5 bg-light">
                 <div class="container">
                     <div class="row">
-                        
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $paths['media']; ?>191018_Natalie.jpg" alt="Natalie" width="100%" height"225">  
-                                <div class="card-body">
-                                    <h4 class="card-text">Portraits</h4>
-                                    <a href="portraits.php" class="stretched-link"></a>                               
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $paths['media']; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
-                                <div class="card-body">
-                                    <h4 class="card-text">Nature</h4>
-                                    <a href="nature.php" class="stretched-link"></a>                               
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $paths['media']; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
-                                <div class="card-body">
-                                    <h4 class="card-text">Sculpture</h4>
-                                    <a href="sculpture.php" class="stretched-link"></a>                               
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $paths['media']; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
-                                <div class="card-body">
-                                    <h4 class="card-text">Studies</h4>
-                                    <a href="studies.php" class="stretched-link"></a>                               
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img src="<?php echo $paths['media']; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
-                                <div class="card-body">
-                                    <h4 class="card-text">Abstractions</h4>
-                                    <a href="abstractions.php" class="stretched-link"></a>                               
-                                </div>
-                            </div>
-                        </div>
-                        <!--
-                        Additional genres for the future:
-                        - Figures
-                        - Cities
-                        Copy-paste above divs to incorporate different genres.
-                        -->
+<?php
+/* Possible future genres:
+ * - Figures
+ * - Cities
+ */
+    $rawDataFile = file_get_contents($cardDataFile);
+    $cards = json_decode($rawDataFile, true);
+    foreach ($cards as $card) {
+        $imgPath = $paths['media'] . $card['thumbnail'];
+        $txt = '' .
+            '<div class="col-md-4">' .
+                '<div class="card mb-4 shadow-sm">' .
+                    '<img src="' . $imgPath . '" alt="' . $card['category'] . '" width="100%" height"225">  ' .
+                    '<div class="card-body">' .
+                        '<h4 class="card-text">' . $card['category'] . '</h4>' .
+                        '<a href="' . $card['target'] . '" class="stretched-link"></a>' .
+                    '</div>' .
+                '</div>' .
+            '</div>';
+        echo $txt;
+    }
+?>
                     </div>
                 </div>
             </div>

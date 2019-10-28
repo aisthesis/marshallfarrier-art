@@ -2,26 +2,26 @@
   {
     "thumbnail": "191018_Natalie.jpg",
     "category": "Portraits",
-    "page": "portraits.php"
+    "target": "portraits.php"
   },
   {
-    "thumbnail": "191018_Natalie.jpg",
+    "thumbnail": "190921_Crows.jpg",
     "category": "Nature",
-    "page": "nature.php"
+    "target": "nature.php"
   },
   {
-    "thumbnail": "191018_Natalie.jpg",
+    "thumbnail": "190803_SquirrelTotem.jpg",
     "category": "Sculpture",
-    "page": "sculpture.php"
+    "target": "sculpture.php"
   },
   {
-    "thumbnail": "191018_Natalie.jpg",
+    "thumbnail": "190912_Cup.jpg",
     "category": "Studies",
-    "page": "studies.php"
+    "target": "studies.php"
   },
   {
-    "thumbnail": "191018_Natalie.jpg",
+    "thumbnail": "190416_SmokeSignal.jpg",
     "category": "Abstractions",
-    "page": "abstractions.php"
+    "target": "abstractions.php"
   }
 ]
