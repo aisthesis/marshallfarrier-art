@@ -4,6 +4,7 @@
     $paths = array(
         "templates" => $root . 'templates/',
         "media" => $root . 'media/',
-        "data" => $root . 'data/'
+        "data" => $root . 'data/',
+        "scripts" => $root . 'scripts/'
     );
 ?>
