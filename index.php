@@ -61,7 +61,7 @@
                                 <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Studies</h4>
-                                    <a href="#" class="stretched-link"></a>                               
+                                    <a href="studies.php" class="stretched-link"></a>                               
                                 </div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@
                                 <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
                                 <div class="card-body">
                                     <h4 class="card-text">Abstractions</h4>
-                                    <a href="#" class="stretched-link"></a>                               
+                                    <a href="abstractions.php" class="stretched-link"></a>                               
                                 </div>
                             </div>
                         </div>
