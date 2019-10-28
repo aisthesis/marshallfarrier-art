@@ -70,7 +70,7 @@
                             <div class="card mb-4 shadow-sm">
                                 <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
                                 <div class="card-body">
-                                    <h4 class="card-text">Abstract</h4>
+                                    <h4 class="card-text">Abstractions</h4>
                                     <a href="#" class="stretched-link"></a>                               
                                 </div>
                             </div>
@@ -81,21 +81,11 @@
                         - Cities
                         Copy-paste above divs to incorporate different genres.
                         -->
-      </div>
-    </div>
-  </div>
-
-</main>
-
-<footer class="text-muted">
-  <div class="container">
-    <p class="float-right">
-      <a href="#">Back to top</a>
-    </p>
-    <p>All images copyright &copy; Marshall Farrier <?php echo $year; ?>. All rights reserved.</p>
-    <p>Website design by Marshall Farrier using <a href="//getbootstrap.com/">Bootstrap</a>.
-  </div>
-</footer>
-        <?php include($templatePath . '_scripts.html') ?>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <?php include($templatePath . '_footer.html'); ?>
+        <?php include($templatePath . '_scripts.html'); ?>
     </body>
 </html>
