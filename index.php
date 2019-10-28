@@ -17,7 +17,7 @@
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Marshall Farrier</h1>
-                    <p class="lead text-muted">My work riffs on the spiritual energy of its subjects. It aims to represent visually the soul of 
+                    <p class="lead text-muted">My work riffs on spiritual energy. It aims to offer views into the souls of 
                     concrete beings and the essence of abstract emotions.</p>
                 </div>
             </section>
