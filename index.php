@@ -4,7 +4,6 @@
     $root = './';
     $templatePath = $root . 'templates/';
     $mediaPath = $root . 'media/';
-    $year = '2019';
     include($root . 'common.php');
     include($templatePath . '_head.html');
     ?>
@@ -26,84 +25,58 @@
             <div class="album py-5 bg-light">
                 <div class="container">
                     <div class="row">
+                        
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>191018_Natalie.jpg" alt="Natalie" width="100%" height"225">  
-                            <div class="card-body">
-                              <h4 class="card-text">Portraits</h4>
-                              <div class="d-flex justify-content-between align-items-center">
-                                <!--
-                                <div class="btn-group">
-                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                <img src="<?php echo $mediaPath; ?>191018_Natalie.jpg" alt="Natalie" width="100%" height"225">  
+                                <div class="card-body">
+                                    <h4 class="card-text">Portraits</h4>
+                                    <a href="portraits.php" class="stretched-link"></a>                               
                                 </div>
-                                -->
-                              </div>
                             </div>
-                          </div>
                         </div>
+                        
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
-                            <div class="card-body">
-                              <h4 class="card-text">Nature</h4>
-                              <div class="d-flex justify-content-between align-items-center">
-                                <!--
-                                <div class="btn-group">
-                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                <img src="<?php echo $mediaPath; ?>190921_Crows.jpg" alt="Crows" width="100%" height"225">  
+                                <div class="card-body">
+                                    <h4 class="card-text">Nature</h4>
+                                    <a href="#" class="stretched-link"></a>                               
                                 </div>
-                                -->
-                              </div>
                             </div>
-                          </div>
                         </div>
+
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
-                            <div class="card-body">
-                              <h4 class="card-text">Sculpture</h4>
-                              <div class="d-flex justify-content-between align-items-center">
-                                <!--
-                                <div class="btn-group">
-                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                <img src="<?php echo $mediaPath; ?>190803_SquirrelTotem.jpg" alt="Squirrel totem" width="100%" height"225">  
+                                <div class="card-body">
+                                    <h4 class="card-text">Sculpture</h4>
+                                    <a href="#" class="stretched-link"></a>                               
                                 </div>
-                                -->
-                              </div>
                             </div>
-                          </div>
                         </div>
+
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
-                            <div class="card-body">
-                              <h4 class="card-text">Studies</h4>
-                              <div class="d-flex justify-content-between align-items-center">
-                                <!--
-                                <div class="btn-group">
-                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                <img src="<?php echo $mediaPath; ?>190912_Cup.jpg" alt="Cup" width="100%" height"225">  
+                                <div class="card-body">
+                                    <h4 class="card-text">Studies</h4>
+                                    <a href="#" class="stretched-link"></a>                               
                                 </div>
-                                -->
-                              </div>
                             </div>
-                          </div>
                         </div>
+
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
-                            <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
-                            <div class="card-body">
-                              <h4 class="card-text">Abstract</h4>
-                              <div class="d-flex justify-content-between align-items-center">
-                                <!--
-                                <div class="btn-group">
-                                  <button type="button" class="btn btn-sm btn-outline-secondary">Portraits</button>
+                                <img src="<?php echo $mediaPath; ?>190416_SmokeSignal.jpg" alt="Smoke signal" width="100%" height"225">  
+                                <div class="card-body">
+                                    <h4 class="card-text">Abstract</h4>
+                                    <a href="#" class="stretched-link"></a>                               
                                 </div>
-                                -->
-                              </div>
                             </div>
-                          </div>
                         </div>
                         <!--
-                        Additional genres:
-                        - Abstract
+                        Additional genres for the future:
                         - Figures
                         - Cities
                         Copy-paste above divs to incorporate different genres.
