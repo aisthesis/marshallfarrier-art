@@ -19,8 +19,8 @@ include($paths['templates'] . '_header.html');
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Marshall Farrier</h1>
-                    <p class="lead text-muted">My work riffs on spiritual energy. It aims to offer views into the souls of 
-                    concrete beings and the essence of abstract emotions.</p>
+                    <p class="lead text-muted">My work riffs on spiritual energy. It aims to look beneath physicality into nature's soul
+                    and into the essence of feeling and emotion.</p>
                 </div>
             </section>
 
