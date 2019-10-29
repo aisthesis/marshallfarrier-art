@@ -2,6 +2,8 @@ marshallfarrier-art
 =
 Website for showing artwork.
 
+This code  generates the site [Spiritual reflections](http://marshallfarrier.com/art/).
+
 Documentation
 ---
 ### Analytics
