@@ -5,6 +5,7 @@
     $root = './';
     include($root . 'common.php');
     $cardDataFile = $paths['data'] . 'sculpture.json';
+    $previewImage = '190803_SquirrelTotem.jpg';
 
     // generate head
     include($paths['templates'] . '_head.html');

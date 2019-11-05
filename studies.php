@@ -5,6 +5,7 @@
     $root = './';
     include($root . 'common.php');
     $cardDataFile = $paths['data'] . 'studies.json';
+    $previewImage = '191103_Pumpkin.jpg';
 
     // generate head
     include($paths['templates'] . '_head.html');
