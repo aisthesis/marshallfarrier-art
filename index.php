@@ -6,6 +6,7 @@ $root = './';
 include($root . 'common.php');
 $cardDataFile = $paths['data'] . 'index.json';
 $previewImage = '190908_Savannah.jpg';
+$content = json_file_to_obj($root . 'content.json');
 
 // generate head
 include($paths['templates'] . '_head.html');
@@ -20,8 +21,7 @@ include($paths['templates'] . '_header.html');
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading">Marshall Farrier</h1>
-                    <p class="lead text-muted">My work riffs on spiritual energy. It aims to look beneath physicality into nature's soul
-                    and into the spiraling flow of feeling and emotion.</p>
+                    <p class="lead text-muted"><?php echo $content['lead']; ?></p>
                 </div>
             </section>
 

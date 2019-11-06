@@ -1,5 +1,29 @@
 [
   {
+    "filename": "191105_Vortex.jpg",
+    "title": "Vortex study",
+    "year": "2019",
+    "price": "$ 300",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
+  },
+  {
+    "filename": "191105_Flow02.jpg",
+    "title": "Flow study 2",
+    "year": "2019",
+    "price": "$ 300",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
+  },
+  {
+    "filename": "191105_Flow01.jpg",
+    "title": "Flow study 1",
+    "year": "2019",
+    "price": "$ 300",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
+  },
+  {
     "filename": "190416_SmokeSignal.jpg",
     "title": "Smoke signal",
     "year": "2019",

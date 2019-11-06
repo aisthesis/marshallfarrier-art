@@ -2,8 +2,7 @@
     <div class="container">
         <div class="row">
             <?php
-                $jsonFileContents = file_get_contents($cardDataFile);
-                $cards = json_decode($jsonFileContents, true);
+                $cards = json_file_to_obj($cardDataFile);
                 foreach ($cards as $card) {
                     $imgPath = $paths['media'] . $card['filename'];
                     $txt = '' .
