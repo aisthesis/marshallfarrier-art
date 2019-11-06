@@ -21,7 +21,7 @@ include($paths['templates'] . '_header.html');
                 <div class="container">
                     <h1 class="jumbotron-heading">Marshall Farrier</h1>
                     <p class="lead text-muted">My work riffs on spiritual energy. It aims to look beneath physicality into nature's soul
-                    and into the essence of feeling and emotion.</p>
+                    and into the spiraling flow of feeling and emotion.</p>
                 </div>
             </section>
 
