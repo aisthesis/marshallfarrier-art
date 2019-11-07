@@ -1,42 +1,7 @@
 [
-  {
-    "filename": "191105_Vortex.jpg",
-    "title": "Vortex study",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "191105_Flow02.jpg",
-    "title": "Flow study 2",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "191105_Flow01.jpg",
-    "title": "Flow study 1",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "190416_SmokeSignal.jpg",
-    "title": "Smoke signal",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Colored pencil on paper",
-    "dimensions": "30.5 x 22.9 cm"
-  },
-  {
-    "filename": "190701_FemForm.jpg",
-    "title": "Feminine Form",
-    "year": "2019",
-    "price": "not for sale",
-    "medium": "Crayon and ink on paper",
-    "dimensions": "20.7 x 14.1 cm"
-  }
+  "191105_vortex",
+  "191105_flow2",
+  "191105_flow1",
+  "190416_smoke",
+  "190701_fem"
 ]

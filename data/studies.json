@@ -1,74 +1,11 @@
 [
-  {
-    "filename": "191105_Vortex.jpg",
-    "title": "Vortex study",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "191105_Flow02.jpg",
-    "title": "Flow study 2",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "191105_Flow01.jpg",
-    "title": "Flow study 1",
-    "year": "2019",
-    "price": "$ 300",
-    "medium": "Ink on paper",
-    "dimensions": "22.7 x 30.5 cm"
-  },
-  {
-    "filename": "191103_Pumpkin.jpg",
-    "title": "Pumpkin",
-    "year": "2019",
-    "price": "$ 700",
-    "medium": "Acrylic on paper",
-    "dimensions": "30.5 x 40.6 cm"
-  },
-  {
-    "filename": "190926_CherryTree.jpg",
-    "title": "Cherry tree",
-    "year": "2019",
-    "price": "$ 700",
-    "medium": "Acrylic on paper",
-    "dimensions": "30.5 x 40.6 cm"
-  },
-  {
-    "filename": "190914_Candle.jpg",
-    "title": "Candle",
-    "year": "2019",
-    "price": "$ 700",
-    "medium": "Acrylic on paper",
-    "dimensions": "30.5 x 40.6 cm"
-  },
-  {
-    "filename": "190912_Cup.jpg",
-    "title": "Cup",
-    "year": "2019",
-    "price": "$ 800",
-    "medium": "Acrylic on paper",
-    "dimensions": "40.6 x 30.5 cm"
-  },
-  {
-    "filename": "190702_Autoportrait.jpg",
-    "title": "Self-portrait",
-    "year": "2019",
-    "price": "not for sale",
-    "medium": "Acrylic on paper",
-    "dimensions": "40.6 x 30.5 cm"
-  },
-  {
-    "filename": "190611_Poppy.jpg",
-    "title": "Poppy",
-    "year": "2019",
-    "price": "not for sale",
-    "medium": "Acrylic on paper",
-    "dimensions": "30.5 x 22.9 cm"
-  }
+  "191105_vortex",
+  "191105_flow2",
+  "191105_flow1",
+  "191103_pumpkin",
+  "190926_cherry_tree",
+  "190914_candle",
+  "190912_cup",
+  "190702_autoportrait",
+  "190611_poppy"
 ]

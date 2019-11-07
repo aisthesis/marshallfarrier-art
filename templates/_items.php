@@ -2,8 +2,10 @@
     <div class="container">
         <div class="row">
             <?php
-                $cards = json_file_to_obj($cardDataFile);
-                foreach ($cards as $card) {
+                $cardKeys = json_file_to_obj($cardDataFile);
+                $cardContents = json_file_to_obj($paths['data'] . 'items.json');
+                foreach ($cardKeys as $key) {
+                    $card = $cardContents[$key];
                     $imgPath = $paths['media'] . $card['filename'];
                     $txt = '' .
                         '<div class="col-md-4">' .
