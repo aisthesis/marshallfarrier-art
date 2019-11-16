@@ -1,11 +1,19 @@
 {
+  "191115_squigglebg": {
+    "filename": "191115_Squiggles01.jpg",
+      "title": "Squiggle study",
+      "year": "2019",
+      "price": "$ 200",
+      "medium": "Ink on paper",
+      "dimensions": "60.8 x 45.6 cm"
+    },
   "191114_circlescape": {
     "filename": "191114_Circlescape.jpg",
       "title": "Perspective study 2",
       "year": "2019",
       "price": "$ 200",
       "medium": "Ink and crayon on paper",
-      "dimensions": "45,6 x 60,8 cm"
+      "dimensions": "45.6 x 60.8 cm"
     },
   "191113_bulge": {
     "filename": "191113_Bulge.jpg",
@@ -13,7 +21,7 @@
       "year": "2019",
       "price": "$ 200",
       "medium": "Ink and crayon on paper",
-      "dimensions": "45,6 x 60,8 cm"
+      "dimensions": "45.6 x 60.8 cm"
     },
   "191105_vortex": {
       "filename": "191105_Vortex.jpg",
