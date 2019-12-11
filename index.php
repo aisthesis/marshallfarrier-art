@@ -7,6 +7,7 @@ include($root . 'common.php');
 $cardDataFile = $paths['data'] . 'index.json';
 $previewImage = '190908_Savannah.jpg';
 $content = json_file_to_obj($root . 'content.json');
+$emailRef = 'mailto:' . $content['email']['address'] . '?subject=' . $content['email']['subject'];
 
 // generate head
 include($paths['templates'] . '_head.html');
