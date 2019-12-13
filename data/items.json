@@ -1,4 +1,12 @@
 {
+  "191212_flow3": {
+    "filename": "191212_Flow03.jpg",
+      "title": "Flow study 3",
+      "year": "2019",
+      "price": "$ 200",
+      "medium": "Ink on paper",
+      "dimensions": "45.6 x 60.8 cm"
+    },
   "191209_peter": {
     "filename": "191209_Peter.jpg",
       "title": "Peter",
@@ -19,7 +27,7 @@
     "filename": "191114_Circlescape.jpg",
       "title": "Perspective study 2",
       "year": "2019",
-      "price": "$ 200",
+      "price": "$ 225",
       "medium": "Ink and crayon on paper",
       "dimensions": "45.6 x 60.8 cm"
     },
@@ -27,7 +35,7 @@
     "filename": "191113_Bulge.jpg",
       "title": "Perspective study 1",
       "year": "2019",
-      "price": "$ 200",
+      "price": "$ 225",
       "medium": "Ink and crayon on paper",
       "dimensions": "45.6 x 60.8 cm"
     },
