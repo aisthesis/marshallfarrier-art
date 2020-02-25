@@ -5,7 +5,7 @@
 $root = './';
 include($root . 'common.php');
 $cardDataFile = $paths['data'] . 'index.json';
-$previewImage = '190908_Savannah.jpg';
+$previewImage = '200224_Allena.jpg';
 $content = json_file_to_obj($root . 'content.json');
 $emailRef = 'mailto:' . $content['email']['address'] . '?subject=' . $content['email']['subject'];
 

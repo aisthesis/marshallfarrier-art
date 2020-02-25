@@ -1,218 +1,226 @@
 {
+  "200224_allena": {
+    "filename": "200224_Allena.jpg",
+    "title": "Allena",
+    "year": "2020",
+    "price": "sold",
+    "medium": "Acrylic on wood panel",
+    "dimensions": "60.7 x 45.4 cm"
+    },
   "200127_holesbumps": {
     "filename": "200127_HolesBumps.jpg",
-      "title": "Holes and Bumps",
-      "year": "2020",
-      "price": "$ 1,200",
-      "medium": "Acrylic on paper",
-      "dimensions": "40.6 x 50.8 cm"
+    "title": "Holes and Bumps",
+    "year": "2020",
+    "price": "$ 1,200",
+    "medium": "Acrylic on paper",
+    "dimensions": "40.6 x 50.8 cm"
     },
   "191212_flow3": {
     "filename": "191212_Flow03.jpg",
-      "title": "Flow study 3",
-      "year": "2019",
-      "price": "$ 200",
-      "medium": "Ink on paper",
-      "dimensions": "45.6 x 60.8 cm"
+    "title": "Flow study 3",
+    "year": "2019",
+    "price": "$ 200",
+    "medium": "Ink on paper",
+    "dimensions": "45.6 x 60.8 cm"
     },
   "191209_peter": {
     "filename": "191209_Peter.jpg",
-      "title": "Peter",
-      "year": "2019",
-      "price": "sold",
-      "medium": "Acrylic on wood panel",
-      "dimensions": "60.7 x 45.4 cm"
+    "title": "Peter",
+    "year": "2019",
+    "price": "sold",
+    "medium": "Acrylic on wood panel",
+    "dimensions": "60.7 x 45.4 cm"
     },
   "191115_squigglebg": {
     "filename": "191115_Squiggles01.jpg",
-      "title": "Squiggle study",
-      "year": "2019",
-      "price": "$ 200",
-      "medium": "Ink on paper",
-      "dimensions": "60.8 x 45.6 cm"
+    "title": "Squiggle study",
+    "year": "2019",
+    "price": "$ 200",
+    "medium": "Ink on paper",
+    "dimensions": "60.8 x 45.6 cm"
     },
   "191114_circlescape": {
     "filename": "191114_Circlescape.jpg",
-      "title": "Perspective study 2",
-      "year": "2019",
-      "price": "$ 225",
-      "medium": "Ink and crayon on paper",
-      "dimensions": "45.6 x 60.8 cm"
-    },
+    "title": "Perspective study 2",
+    "year": "2019",
+    "price": "$ 225",
+    "medium": "Ink and crayon on paper",
+    "dimensions": "45.6 x 60.8 cm"
+  },
   "191113_bulge": {
     "filename": "191113_Bulge.jpg",
-      "title": "Perspective study 1",
-      "year": "2019",
-      "price": "$ 225",
-      "medium": "Ink and crayon on paper",
-      "dimensions": "45.6 x 60.8 cm"
+    "title": "Perspective study 1",
+    "year": "2019",
+    "price": "$ 225",
+    "medium": "Ink and crayon on paper",
+    "dimensions": "45.6 x 60.8 cm"
     },
   "191105_vortex": {
-      "filename": "191105_Vortex.jpg",
-      "title": "Vortex study",
-      "year": "2019",
-      "price": "$ 150",
-      "medium": "Ink on paper",
-      "dimensions": "22.7 x 30.5 cm"
+    "filename": "191105_Vortex.jpg",
+    "title": "Vortex study",
+    "year": "2019",
+    "price": "$ 150",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
     },
   "191105_flow2": {
-      "filename": "191105_Flow02.jpg",
-      "title": "Flow study 2",
-      "year": "2019",
-      "price": "$ 150",
-      "medium": "Ink on paper",
-      "dimensions": "22.7 x 30.5 cm"
+    "filename": "191105_Flow02.jpg",
+    "title": "Flow study 2",
+    "year": "2019",
+    "price": "$ 150",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
     },
   "191105_flow1": {
-      "filename": "191105_Flow01.jpg",
-      "title": "Flow study 1",
-      "year": "2019",
-      "price": "$ 150",
-      "medium": "Ink on paper",
-      "dimensions": "22.7 x 30.5 cm"
+    "filename": "191105_Flow01.jpg",
+    "title": "Flow study 1",
+    "year": "2019",
+    "price": "$ 150",
+    "medium": "Ink on paper",
+    "dimensions": "22.7 x 30.5 cm"
     },
   "190416_smoke": {
-      "filename": "190416_SmokeSignal.jpg",
-      "title": "Smoke signal",
-      "year": "2019",
-      "price": "$ 150",
-      "medium": "Colored pencil on paper",
-      "dimensions": "30.5 x 22.9 cm"
+    "filename": "190416_SmokeSignal.jpg",
+    "title": "Smoke signal",
+    "year": "2019",
+    "price": "$ 150",
+    "medium": "Colored pencil on paper",
+    "dimensions": "30.5 x 22.9 cm"
     },
   "190701_fem": {
-      "filename": "190701_FemForm.jpg",
-      "title": "Feminine form",
-      "year": "2019",
-      "price": "not for sale",
-      "medium": "Crayon and ink on paper",
-      "dimensions": "20.7 x 14.1 cm"
+    "filename": "190701_FemForm.jpg",
+    "title": "Feminine form",
+    "year": "2019",
+    "price": "not for sale",
+    "medium": "Crayon and ink on paper",
+    "dimensions": "20.7 x 14.1 cm"
     },
   "191025_geese": {
-      "filename": "191025_Geese.jpg",
-      "title": "Geese",
-      "year": "2019",
-      "price": "$ 1,200",
-      "medium": "Acrylic on wood panel",
-      "dimensions": "30.6 x 49.0 cm"
+    "filename": "191025_Geese.jpg",
+    "title": "Geese",
+    "year": "2019",
+    "price": "$ 1,200",
+    "medium": "Acrylic on wood panel",
+    "dimensions": "30.6 x 49.0 cm"
     },
   "190921_crows": {
-      "filename": "190921_Crows.jpg",
-      "title": "Crows",
-      "year": "2019",
-      "price": "$ 1,200",
-      "medium": "Acrylic on wood panel",
-      "dimensions": "30.6 x 45.7 cm"
+    "filename": "190921_Crows.jpg",
+    "title": "Crows",
+    "year": "2019",
+    "price": "$ 1,200",
+    "medium": "Acrylic on wood panel",
+    "dimensions": "30.6 x 45.7 cm"
     },
   "190820_bee": {
-      "filename": "190820_Bee.jpg",
-      "title": "Pollination",
-      "year": "2019",
-      "price": "$ 700",
-      "medium": "Acrylic on paper",
-      "dimensions": "40.6 x 30.5 cm"
+    "filename": "190820_Bee.jpg",
+    "title": "Pollination",
+    "year": "2019",
+    "price": "$ 700",
+    "medium": "Acrylic on paper",
+    "dimensions": "40.6 x 30.5 cm"
     },
   "190715_arboretum": {
-      "filename": "190715_SeattleArboretum.jpg",
-      "title": "Seattle Arboretum",
-      "year": "2019",
-      "price": "$ 1,000",
-      "medium": "Acrylic on canvas",
-      "dimensions": "40.0 x 50.0 cm"
+    "filename": "190715_SeattleArboretum.jpg",
+    "title": "Seattle Arboretum",
+    "year": "2019",
+    "price": "$ 1,000",
+    "medium": "Acrylic on canvas",
+    "dimensions": "40.0 x 50.0 cm"
     },
   "190611_poppy": {
-      "filename": "190611_Poppy.jpg",
-      "title": "Poppy",
-      "year": "2019",
-      "price": "not for sale",
-      "medium": "Acrylic on paper",
-      "dimensions": "30.5 x 22.9 cm"
+    "filename": "190611_Poppy.jpg",
+    "title": "Poppy",
+    "year": "2019",
+    "price": "not for sale",
+    "medium": "Acrylic on paper",
+    "dimensions": "30.5 x 22.9 cm"
     },
   "191018_natalie": {
-      "filename": "191018_Natalie.jpg",
-      "title": "Natalie",
-      "year": "2019",
-      "price": "sold",
-      "medium": "Acrylic on wood panel",
-      "dimensions": "50.5 x 40.5 cm"
+    "filename": "191018_Natalie.jpg",
+    "title": "Natalie",
+    "year": "2019",
+    "price": "sold",
+    "medium": "Acrylic on wood panel",
+    "dimensions": "50.5 x 40.5 cm"
     },
   "190908_savannah": {
-      "filename": "190908_Savannah.jpg",
-      "title": "Savannah",
-      "year": "2019",
-      "price": "sold",
-      "medium": "Acrylic on paper",
-      "dimensions": "50.8 x 40.6 cm"
+    "filename": "190908_Savannah.jpg",
+    "title": "Savannah",
+    "year": "2019",
+    "price": "sold",
+    "medium": "Acrylic on paper",
+    "dimensions": "50.8 x 40.6 cm"
     },
   "190808_anton": {
-      "filename": "190808_Anton.jpg",
-      "title": "Anton",
-      "year": "2019",
-      "price": "not for sale",
-      "medium": "Acrylic on paper",
-      "dimensions": "50.8 x 40.6 cm"
+    "filename": "190808_Anton.jpg",
+    "title": "Anton",
+    "year": "2019",
+    "price": "not for sale",
+    "medium": "Acrylic on paper",
+    "dimensions": "50.8 x 40.6 cm"
     },
   "190705_autoportrait": {
-      "filename": "190705_Autoportrait.jpg",
-      "title": "Self-portrait",
-      "year": "2019",
-      "price": "not for sale",
-      "medium": "Acrylic on paper",
-      "dimensions": "40.6 x 30.5 cm"
+    "filename": "190705_Autoportrait.jpg",
+    "title": "Self-portrait",
+    "year": "2019",
+    "price": "not for sale",
+    "medium": "Acrylic on paper",
+    "dimensions": "40.6 x 30.5 cm"
     },
   "190803_mask": {
-      "filename": "190803_SquirrelTotem.jpg",
-      "title": "Squirrel totem",
-      "year": "2019",
-      "price": "$ 2,500",
-      "medium": "Acrylic on bone",
-      "dimensions": "46 x 42 x 33 cm"
+    "filename": "190803_SquirrelTotem.jpg",
+    "title": "Squirrel totem",
+    "year": "2019",
+    "price": "$ 2,500",
+    "medium": "Acrylic on bone",
+    "dimensions": "46 x 42 x 33 cm"
     },
   "06xxxx_barbie": {
-      "filename": "06XXXX_BarbieCrucifixion.jpg",
-      "title": "Crucifixion",
-      "year": "2006",
-      "price": "$1,500",
-      "medium": "Mixed media",
-      "dimensions": "47 x 35 x 7 cm"
+    "filename": "06XXXX_BarbieCrucifixion.jpg",
+    "title": "Crucifixion",
+    "year": "2006",
+    "price": "$1,500",
+    "medium": "Mixed media",
+    "dimensions": "47 x 35 x 7 cm"
     },
   "191103_pumpkin": {
-      "filename": "191103_Pumpkin.jpg",
-      "title": "Pumpkin",
-      "year": "2019",
-      "price": "$ 700",
-      "medium": "Acrylic on paper",
-      "dimensions": "30.5 x 40.6 cm"
+    "filename": "191103_Pumpkin.jpg",
+    "title": "Pumpkin",
+    "year": "2019",
+    "price": "$ 700",
+    "medium": "Acrylic on paper",
+    "dimensions": "30.5 x 40.6 cm"
     },
   "190926_cherry_tree": {
-      "filename": "190926_CherryTree.jpg",
-      "title": "Cherry tree",
-      "year": "2019",
-      "price": "$ 700",
-      "medium": "Acrylic on paper",
-      "dimensions": "30.5 x 40.6 cm"
+    "filename": "190926_CherryTree.jpg",
+    "title": "Cherry tree",
+    "year": "2019",
+    "price": "$ 700",
+    "medium": "Acrylic on paper",
+    "dimensions": "30.5 x 40.6 cm"
     },
   "190914_candle": {
-      "filename": "190914_Candle.jpg",
-      "title": "Candle",
-      "year": "2019",
-      "price": "$ 700",
-      "medium": "Acrylic on paper",
-      "dimensions": "30.5 x 40.6 cm"
+    "filename": "190914_Candle.jpg",
+    "title": "Candle",
+    "year": "2019",
+    "price": "$ 700",
+    "medium": "Acrylic on paper",
+    "dimensions": "30.5 x 40.6 cm"
     },
   "190912_cup": {
-      "filename": "190912_Cup.jpg",
-      "title": "Cup",
-      "year": "2019",
-      "price": "$ 700",
-      "medium": "Acrylic on paper",
-      "dimensions": "40.6 x 30.5 cm"
+    "filename": "190912_Cup.jpg",
+    "title": "Cup",
+    "year": "2019",
+    "price": "$ 700",
+    "medium": "Acrylic on paper",
+    "dimensions": "40.6 x 30.5 cm"
     },
   "190702_autoportrait": {
-      "filename": "190702_Autoportrait.jpg",
-      "title": "Self-portrait",
-      "year": "2019",
-      "price": "not for sale",
-      "medium": "Acrylic on paper",
-      "dimensions": "40.6 x 30.5 cm"
-  }
+    "filename": "190702_Autoportrait.jpg",
+    "title": "Self-portrait",
+    "year": "2019",
+    "price": "not for sale",
+    "medium": "Acrylic on paper",
+    "dimensions": "40.6 x 30.5 cm"
+    }
 }

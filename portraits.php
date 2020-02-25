@@ -5,7 +5,7 @@
     $root = './';
     include($root . 'common.php');
     $cardDataFile = $paths['data'] . 'portraits.json';
-    $previewImage = '191018_Natalie.jpg';
+    $previewImage = '200224_Allena.jpg';
 
     // generate head
     include($paths['templates'] . '_head.html');
