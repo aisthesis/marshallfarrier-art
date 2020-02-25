@@ -1,6 +1,7 @@
 <?php
     $title = "Spiritual reflections";
-    $year = '2019';
+    $startYear = '2019';
+    $currentYear = date("Y");
     $paths = array(
         "templates" => $root . 'templates/',
         "media" => $root . 'media/',
