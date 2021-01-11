@@ -19,5 +19,9 @@ each page on your site. If you add anything beyond what Google gives you, be sur
 To add images of works:
 
 1. Copy the image file to `./media`.
-1. Update the `.json` file for the appropriate section (`Portraits`, `Nature`, etc.).
+1. Update `items.json` with details for the new
+work.
+1. Update the `.json` file for the section(s)
+(`Portraits`, `Nature`, etc.) in which the new work should be
+included. 
 
