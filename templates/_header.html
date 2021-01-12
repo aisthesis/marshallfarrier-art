@@ -5,9 +5,9 @@
         <div class="col-sm-8 col-md-7 py-4">
           <h4 class="text-white">About</h4>
           <div class="text-muted">
-              <p>My art channels diverse aesthetic, spiritual and philosophical influences: the art of Giacometti, Van Gogh, Andrei Rublev and Pierre et Gilles; 
-              the music of Bach, Shostakovich, Yasmine Hamdan and Flavien Berger; 
-              North American indigenous culture; Goddess worship; Spinoza's pantheism; Aristotle's philosophy of soul; Critical theory.
+              <p><?php
+               echo join(" ", $content['about']);
+               ?>
               </p>
               <p><a href="<?php echo $emailRef; ?>" class="text-muted">Contact me</a> for additional information, commissions or purchases.</p>  
           </div>

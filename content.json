@@ -3,5 +3,13 @@
     "address": "marshalldfarrier@gmail.com",
     "subject": "Artwork"
   },
-  "lead": "My work riffs on spiritual energy. It aims to look beneath physicality into nature's soul and the spiraling flow of perception, apprehension, emotion, and desire."
+  "lead": "My work riffs on spiritual energy. It aims to look beneath physicality into nature's soul and the spiraling flow of perception, apprehension, emotion, and desire.",
+  "about": ["My art channels diverse aesthetic, spiritual and",
+    "philosophical influences: the art of Giacometti, Van Gogh,",
+    "Andrei Rublev and Pierre et Gilles; the music of Bach,",
+    "Shostakovich, Yasmine Hamdan and Oceanus Orientalis;", 
+    "North American indigenous culture; Goddess worship;",
+    "Spinoza's pantheism; Aristotle's philosophy of soul;",
+    "Critical theory."
+  ]
 }
