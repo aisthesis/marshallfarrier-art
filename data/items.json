@@ -1,4 +1,132 @@
 {
+  "210919_tango": {
+    "filename": "210919_Tango.jpg",
+    "title": "Tango",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "A4"
+    },
+  "210915_tango": {
+    "filename": "210915_Tango.jpg",
+    "title": "Tango study",
+    "year": "2021",
+    "price": "not for sale",
+    "medium": "Watercolor on paper",
+    "dimensions": "A4"
+    },
+  "210909_vulva": {
+    "filename": "210909_VulvaVariation.jpg",
+    "title": "Vulva 2",
+    "year": "2021",
+    "price": "not for sale",
+    "medium": "Watercolor on paper",
+    "dimensions": "15.5 x 23 cm"
+    },
+  "210908_vulva": {
+    "filename": "210908_VulvaVariation.jpg",
+    "title": "Vulva 1",
+    "year": "2021",
+    "price": "not for sale",
+    "medium": "Watercolor on paper",
+    "dimensions": "15.5 x 23 cm"
+    },
+  "210825_dragon_eye": {
+    "filename": "210825_DragonEyeInstalled.jpg",
+    "title": "Dragon Eye in JodiLynn Tillery installation",
+    "year": "2021",
+    "price": "not for sale",
+    "medium": "Acrylic on stone",
+    "dimensions": "n.a."
+    },
+  "210824_dragon_eye": {
+    "filename": "210824_DragonEyeClose.jpg",
+    "title": "Dragon Eye",
+    "year": "2021",
+    "price": "not for sale",
+    "medium": "Acrylic on stone",
+    "dimensions": "n.a."
+    },
+  "210808_toes": {
+    "filename": "210808_Toes.jpg",
+    "title": "Toes",
+    "year": "2021",
+    "price": "sold",
+    "medium": "Watercolor on paper",
+    "dimensions": "23 x 31 cm"
+    },
+  "210421_nude": {
+    "filename": "210421_FigureStudy.jpg",
+    "title": "Figure Study",
+    "year": "2021",
+    "price": "$ 275",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210409_nude": {
+    "filename": "210409_FigureStudy.jpg",
+    "title": "Figure Study",
+    "year": "2021",
+    "price": "$ 275",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210406_daffodils": {
+    "filename": "210406_Daffodils.jpg",
+    "title": "Daffodils 2",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "23 x 31 cm"
+    },
+  "210404_daffodils": {
+    "filename": "210404_daffodils.jpg",
+    "title": "Daffodils 1",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210307_foucault": {
+    "filename": "210307_MichelFoucault.jpg",
+    "title": "Michel Foucault",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210303_woolf": {
+    "filename": "210303_VirginiaWoolf.jpg",
+    "title": "Virginia Woolf",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210220_baker": {
+    "filename": "210220_JosephineBaker.jpg",
+    "title": "Josephine Baker",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210215_quanah": {
+    "filename": "210215_QuanahParker.jpg",
+    "title": "Quanah Parker",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
+  "210210_mlk": {
+    "filename": "210210_MartinLutherKingJr.jpg",
+    "title": "Martin Luther King, Jr.",
+    "year": "2021",
+    "price": "$ 400",
+    "medium": "Watercolor on paper",
+    "dimensions": "31 x 23 cm"
+    },
   "201227_salmon": {
     "filename": "201227_Salmon.jpg",
     "title": "Salmon",
